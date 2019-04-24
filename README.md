@@ -1,4 +1,5 @@
-# PersianPageNUmber
+# Persian Page Number in MS Word
+
 A Persian font family for changing the page number in Microsoft Word to Persian or Arabic digits  
 
 In the new version of the Microsoft Office (I mean 2016 or newwer) there is a problem in page digits for Persian and Arabic documents. 
